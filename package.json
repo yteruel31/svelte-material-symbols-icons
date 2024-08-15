@@ -1,6 +1,6 @@
 {
   "name": "svelte-material-symbols-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package for using material symbols from Google on Svelte & SvelteKit",
   "packageManager": "yarn@1.22.18",
   "scripts": {
