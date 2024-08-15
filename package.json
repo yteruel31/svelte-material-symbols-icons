@@ -1,6 +1,6 @@
 {
   "name": "svelte-material-symbols-icons",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "packageManager": "yarn@1.22.18",
   "scripts": {
     "dev": "vite dev",
