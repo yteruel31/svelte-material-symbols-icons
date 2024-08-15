@@ -1,6 +1,7 @@
 {
   "name": "svelte-material-symbols-icons",
   "version": "1.0.0",
+  "description": "Package for using material symbols from Google on Svelte & SvelteKit",
   "packageManager": "yarn@1.22.18",
   "scripts": {
     "dev": "vite dev",
@@ -26,6 +27,27 @@
     "dist",
     "!dist/**/*.test.*",
     "!dist/**/*.spec.*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yteruel31/svelte-material-symbols-icons.git"
+  },
+  "author": "Yoann TERUEL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yteruel31/svelte-material-symbols-icons/issues"
+  },
+  "homepage": "https://github.com/yteruel31/svelte-material-symbols-icons#readme",
+  "keywords": [
+    "svelte",
+    "sveltekit",
+    "material design",
+    "material icons",
+    "material",
+    "icons",
+    "symbols",
+    "google",
+    "typescript"
   ],
   "dependencies": {
     "material-symbols": "^0.22.0"
